@@ -7,7 +7,7 @@ For tools, PDK and bias circuit that are used in this repo, check [my previous r
 
 ### Schematic
 <p align="center">
-  <img src="F1.png">
+  <img src="/Results_schematics/F1.png">
 </p>
 
 ### Results
