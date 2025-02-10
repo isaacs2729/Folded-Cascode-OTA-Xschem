@@ -7,7 +7,7 @@ For tools, PDK and bias circuit that are used in this repo, check [my previous r
 
 ### Schematic
 <p align="center">
-  <img src="/Results_schematics/cascode_schematic.png">
+  <img src="/home/isaacs/Pictures/Screenshots/F1.png">
 </p>
 
 ### Results
